@@ -1,2 +1,2 @@
 # parallax
-https://mirakleddev.github.io/parallax/index.html
+https://mimiicodes.github.io/parallax/index.html
